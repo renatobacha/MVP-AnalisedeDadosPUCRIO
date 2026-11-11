@@ -23,7 +23,7 @@ O escopo compreende a definição do problema, a análise exploratória e o pré
 
 ## 3. Reprodução
 
-1. Abrir o notebook disponivel dentro do arquivo "MVP_Diabetes_Analise_Dados_VERSÃO_FINAL.ipynb" Google Colab.
+1. Abrir o notebook disponivel dentro do arquivo "MVP_Diabetes_Analise_Dados_VERSÃO_FINAL.ipynb" no botão no topo à esquerda "Open in Colab".
 2. Executar todas as células (*Ambiente de execução → Executar tudo*).
 
 O dataset é lido diretamente deste repositório pela URL *raw*, sem necessidade de download manual. O endereço e os demais parâmetros do projeto (alvo, ordem das classes, constantes das análises) estão concentrados na célula "Parâmetros do projeto":
