@@ -17,7 +17,7 @@ O escopo compreende a definição do problema, a análise exploratória e o pré
 
 | Arquivo / pasta | Descrição |
 |---|---|
-| `MVP_Diabetes_Analise_Exploratoria_ULTRA_FINAL.ipynb` | Notebook (Google Colab) com o relatório completo: texto, código, gráficos e análises |
+| `MVP_Diabetes_Analise_Dados_VERSÃO_FINAL.ipynb` | Notebook (Google Colab) com o relatório completo: texto, código, gráficos e análises |
 | `diabetes_risk_prediction_dataset.csv` | Dataset original do Kaggle, sem alterações (50.000 linhas e 41 colunas) |
 | `dados_processados/` | Quatro visões pré-processadas do dataset, em treino e teste (`.csv.gz`) |
 | `README.md` | Este resumo |
