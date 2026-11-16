@@ -19,13 +19,20 @@ Análise exploratória e pré-processamento do *Diabetes Risk Prediction Dataset
 
 ## Estrutura do notebook
 
-1. Problema e perguntas (H1 a H4)
+1. Perguntas ou hipóteses (H1 a H4)
 2. Fonte e significado dos dados
 3. Ambiente e carregamento (e dicionário completo) ·
 4. Análise exploratória (4.1 qualidade, 4.2 estatísticas, 4.3 figuras)
 5. Pré-processamento e decisões (5.1 a 5.5, com D1 a D3) ·
 6. Respostas e conclusão (com referências e declaração de IA)
 7. Checklist de entrega.
+
+## Perguntas ou hipóteses
+
+- **H1:** o nível de risco cresce com os indicadores glicêmicos (Blood_Glucose, Fasting_Blood_Sugar e HbA1c).
+- **H2:** o nível de risco cresce com o índice de massa corporal (BMI) e com a idade (Age).
+- **H3:** a presença de histórico familiar (Family_History_Diabetes) eleva a proporção de pacientes na classe de maior risco (High).
+- **H4:** níveis mais elevados de atividade física (Physical_Activity_Level e Exercise_Hours_Per_Week) reduzem essa proporção.
 
 ## Decisões principais
 
