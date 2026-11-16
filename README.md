@@ -10,15 +10,12 @@ Análise exploratória e pré-processamento do *Diabetes Risk Prediction Dataset
 |---|---|
 | `MVP_Analise_Dados_Diabetes.ipynb` | Notebook-relatório (código, resultados, interpretações, decisões e limitações) |
 | `diabetes_risk_prediction_dataset.csv` | Dados lidos pelo notebook via URL *raw* |
-| `dados_processados/` | Oito arquivos `.csv.gz` (4 visões × treino/teste) gerados pelo notebook |
-| `requirements.txt` | Dependências |
 
 ## Como executar
 
 1. Abra o notebook no Google Colab: https://colab.research.google.com/github/renatobacha/MVP-AnalisedeDadosPUCRIO/blob/main/MVP_Analise_Dados_Diabetes.ipynb
 2. Em um ambiente novo, use *Ambiente de execução → Executar tudo*.
 3. Não são necessárias contas pessoais, credenciais nem arquivos locais: o CSV é lido da URL pública do repositório.
-4. Localmente: `pip install -r requirements.txt` e abra o notebook com Jupyter.
 
 ## Estrutura do notebook
 
@@ -33,7 +30,7 @@ Análise exploratória e pré-processamento do *Diabetes Risk Prediction Dataset
 
 ## Fonte e licença
 
-Dados: *Diabetes Risk Prediction Dataset (50K Patients)*, Kaggle (autor da página: `mobeenfatimah`): https://www.kaggle.com/datasets/mobeenfatimah/diabetes-risk-prediction-dataset-50k-patients — licença **CC BY-SA 4.0** (atribuição e compartilhamento pela mesma licença; vale também para os arquivos derivados em `dados_processados/`).
+Dados: *Diabetes Risk Prediction Dataset (50K Patients)*, Kaggle (autor da página: `mobeenfatimah`): https://www.kaggle.com/datasets/mobeenfatimah/diabetes-risk-prediction-dataset-50k-patients — licença **CC BY-SA 4.0** (atribuição e compartilhamento pela mesma licença;
 
 ## Observações
 
