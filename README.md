@@ -1,3 +1,5 @@
+PRECISA SER ATUALIZADO!
+
 # MVP – Análise de Dados e Boas Práticas
 ## Predição de Risco de Diabetes: análise exploratória e pré-processamento de dados
 
