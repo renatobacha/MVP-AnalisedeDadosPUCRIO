@@ -19,7 +19,16 @@ Análise exploratória e pré-processamento do *Diabetes Risk Prediction Dataset
 
 ## Estrutura do notebook
 
-1. Problema e perguntas (H1 a H4) · 2. Fonte e significado dos dados · 3. Ambiente e carregamento (e dicionário completo) · 4. Análise exploratória (4.1 qualidade, 4.2 estatísticas, 4.3 figuras) · 5. Pré-processamento e decisões (5.1 a 5.5, com D1 a D3) · 6. Respostas e conclusão (com referências e declaração de IA) · 7. Checklist de entrega.
+1. Problema e perguntas (H1 a H4)
+2. Fonte e significado dos dados
+3. Ambiente e carregamento (e dicionário completo) ·
+4. Análise exploratória
+   4.1 qualidade
+   4.2 estatísticas
+   4.3 figuras
+5. Pré-processamento e decisões (5.1 a 5.5, com D1 a D3) ·
+6. Respostas e conclusão (com referências e declaração de IA)
+7. Checklist de entrega.
 
 ## Decisões principais
 
