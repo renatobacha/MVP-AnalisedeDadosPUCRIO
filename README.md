@@ -31,10 +31,6 @@ Análise exploratória e pré-processamento do *Diabetes Risk Prediction Dataset
 - **D3:** BMI < 15 e demais extremos mantidos, após verificar que o BMI é consistente com peso e altura; comparação entre manter, remover linhas e anular/imputar.
 - Partição 80/20 estratificada, `random_state=42`, antes de qualquer ajuste de parâmetros.
 
-## Dependências
-
-Versões mínimas em `requirements.txt`; as versões efetivamente usadas são impressas na primeira célula de código do notebook.
-
 ## Fonte e licença
 
 Dados: *Diabetes Risk Prediction Dataset (50K Patients)*, Kaggle (autor da página: `mobeenfatimah`): https://www.kaggle.com/datasets/mobeenfatimah/diabetes-risk-prediction-dataset-50k-patients — licença **CC BY-SA 4.0** (atribuição e compartilhamento pela mesma licença; vale também para os arquivos derivados em `dados_processados/`).
