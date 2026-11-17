@@ -264,7 +264,15 @@ Todos os parâmetros ficam em uma única célula de constantes (seção 3). Alte
 
 ## 14. Declaração de uso de IA
 
-Foram utilizadas ferramentas de IA generativa como apoio técnico e editorial: **Gemini**, para formatação de código Python, estruturação de blocos textuais e padronização do template da disciplina; e **Claude (Anthropic)**, para revisar o notebook frente ao enunciado, sugerir correções de código e reorganizar as seções e os textos de interpretação. O problema, a escolha da base, as hipóteses e as decisões foram definidos pelo autor, que revisou o conteúdo, executou o notebook completo no Google Colab e é responsável pelo resultado final.
+Declaro que utilizei ferramentas de IA generativa como apoio operacional, técnico e editorial: 
+
+* **Gemini** para ajustes de formatação e padronização de código Python frente ao template disponibilizado da disciplina;
+
+* **Claude (Anthropic)** para revisar tudo o que foi feito anteriormente por mim (com a ajuda do **Gemini**), sugerir ajustes de códigos, melhorias de textos nas hipóteses, análises e seções e reorganizar as devidas seções.
+
+O problema, a escolha da base, as hipóteses H1 a H4, as análises de tabelas, gráficos, testes estatísticos, interpretações iniciais dos resultados, D1 a D3 e as respostas e conclusão foram definidos por mim. 
+
+Revisei o conteúdo total e executei o notebook completo no Google Colab, e sou responsável pelo resultado final.
 
 ## 15. Referências
 
